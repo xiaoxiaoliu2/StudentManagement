@@ -1,12 +1,29 @@
 ﻿<Properties StartupConfiguration="{CCD288C5-8DE0-4E43-A5A6-22C79D82C9ED}|https">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Modals/Students.cs">
+    <Files>
+      <File FileName="API/Program.cs" Line="15" Column="38" />
+      <File FileName="API/appsettings.json" Line="10" Column="14" />
+      <File FileName="API/Modals/Student.cs" Line="5" Column="2" />
+      <File FileName="API/Modals/StudentDbContext.cs" Line="3" Column="1" />
+      <File FileName="API/Controllers/StudentsController.cs" Line="51" Column="50" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StudentManagement" expanded="True" selected="True">
-            <Node name="API" expanded="True" />
+          <Node name="StudentManagement" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Modals" expanded="True">
+                <Node name="Students.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

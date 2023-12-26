@@ -80,19 +80,9 @@ const StudentsCrud = () => {
     <div>
       <h1>Student Details</h1>
       <div class="container mt-4">
+    
         <form>
           <div class="form-group">
-
-            <input
-              type="text"
-              class="form-control"
-              id="id"
-              hidden
-              value={id}
-              onChange={(event) => {
-                setId(event.target.value);
-              }}
-            />
             <label>Student Name</label>
             <input
               type="text"
